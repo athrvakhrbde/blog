@@ -41,5 +41,4 @@ fields:
   default: []
   label: Authors
 pages:
-- content/post/fds.md
 - content/post/gfs.md
