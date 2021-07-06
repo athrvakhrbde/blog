@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/bf.md
 - content/post/obama-hamburger-sussy-balls.md
