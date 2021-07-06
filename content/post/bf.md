@@ -9,4 +9,4 @@ title = "bf"
 +++
 fbddfbdf
 
-sadasd![](/519-5195253_kingsglass-green-portal-title-kingsglass-green-rick-and-removebg-preview.png)fsdf
+sadasd![](/519-5195253_kingsglass-green-portal-title-kingsglass-green-rick-and-removebg-preview.png "Portal Gun")fsdf
