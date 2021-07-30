@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-07-22T18:30:00Z
-draft = true
 excerpt = "I love it when my perspectives are contradicted, views are questioned and beliefs are shattered."
 hero = "/images/getty_512358000_2000133320009280358_257516.jpg"
 timeToRead = 5
