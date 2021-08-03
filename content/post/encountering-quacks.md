@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-07-24T18:30:00Z
-draft = true
 excerpt = "My experience with pseudoscientists has never been good. Pseudoscientists I met, range from just having no scientific temperament (for eg. the people who were vouching for plasma therapy in a raging pandemic wave), to pseudoscientific extremists. "
 hero = "/images/cowdun.jfif"
 timeToRead = 5
