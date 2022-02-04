@@ -7,4 +7,4 @@ timeToRead = 0
 title = "Hiding Secrets in Plain Sight"
 
 +++
-You already know what I'm talking about if you're read this on the website
+You already know what I'm talking about if you're reading this on the website
