@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/vga-no-signal-image.jpg"
 timeToRead = 0
