@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2022-02-08T15:12:00Z
 excerpt = ""
 hero = "/images/vga-no-signal-image.jpg"
 timeToRead = 0
