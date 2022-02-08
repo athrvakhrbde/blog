@@ -4,7 +4,7 @@ date = ""
 excerpt = ""
 hero = "/images/vga-no-signal-image.jpg"
 timeToRead = 0
-title = ""
+title = "No Signal"
 
 +++
 I was in class 7 or 8 when I fell for someone, becasue of the stupid goodbyes she used to bid from her bus after school ends. 
