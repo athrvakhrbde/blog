@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2022-03-03T06:30:00Z
-draft = true
 excerpt = ""
 hero = "/images/whatsapp-image-2022-03-06-at-10-56-53-pm.jpeg"
 timeToRead = 0
