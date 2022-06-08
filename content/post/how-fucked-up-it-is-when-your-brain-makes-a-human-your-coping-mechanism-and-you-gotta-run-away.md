@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2022-01-31T18:30:00Z
 excerpt = ""
 hero = ""
 timeToRead = 0
