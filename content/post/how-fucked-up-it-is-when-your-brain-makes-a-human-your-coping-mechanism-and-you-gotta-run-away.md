@@ -2,7 +2,7 @@
 authors = []
 date = 2022-01-31T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/whatsapp-image-2022-06-08-at-3-41-15-pm.jpeg"
 timeToRead = 0
 title = "How fucked up it is when your brain makes a human your coping mechanism and you gotta run away"
 
